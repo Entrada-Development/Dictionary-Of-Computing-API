@@ -86,21 +86,182 @@
     "key": "Anti-aliasing",
     "description": " Sometimes abbreviated as AA, anti-aliasing is a term used to describe the software process of making the edges of graphics objects or fonts smoother. Accomplished by adding additional pixels in-between the edges of an object and its background. Anti-aliasing improves the appearance of polygon edges, so they are not 'jagged' but are smoothed out on the screen.",
     "alias": [
-      "AA"
+      "AA",
+      "Anti-aliasing"
     ]
   },
   {
     "key": "triple-A",
     "description": "With computer gaming, triple-A or AAA describes a game developed by a large publisher who has access to millions of dollars to spend on development. For example, a game like Grand Theft Auto V from Rockstar Games, which took over $250 million for development, is an example of an AAA game.",
     "alias": [
-      "AA"
+      "AA",
+      "Triple-A"
     ]
   },
   {
-    "key": "April Fools Joke",
-    "description": "Shorthand for April fool's joke, AFJ is a practical joke or hoax performed on the first day of April known as April Fools day. April fools jokes have always been popular and continue to be popular on the Internet and Internet news-related sites. For example, Google announced on April 1, 2002, that the technology behind its excellent search results is PigeonRank, a system that relies primarily on trainable domestic pigeons.",
+    "key": "Association for the Advancement of Artificial Intelligence",
+    "description": "Founded in 1979, AAAI stands for the Association for the Advancement of Artificial Intelligence. AAAI is a nonprofit society created to advance the understanding of the inner workings of artificial intelligence to practitioners of AI. They hold several events every year to teach and train AI practitioners about current and future developments in the field. AAAI is also actively working on increasing the public's understanding of AI.",
     "alias": [
-      "AFJ"
+      "Association for the Advancement of Artificial Intelligence",
+      "AAAI"
+    ]
+  },
+  {
+    "key": "Advanced Audio Coding",
+    "description": "Short for Advanced Audio Coding, AAC is a codec with better quality and compression than the popular MP3 format. AAC is the default codec Apple iTunes uses when saving audio CDs to your computer.",
+    "alias" : [
+      "Advanced Audio Coding",
+      "AAC"
+    ]
+  },
+  {
+    "key": "Aaeon",
+    "description": "Founded in 1992, Aaeon is a Taiwan-based manufacturer of OEM/ODM industrial PCs. Its product line includes industrial PCs, rugged tablet PCs, automation controllers and software, embedded single board computers, embedded controllers, network appliance and flat-panel PCs.",
+    "alias" : [
+      "Aaeon"
+    ]
+  },
+  {
+    "key": "Anti-aliasing filter",
+    "description": "An AA filter or anti-aliasing filter is a filter used before a signal sampler, to restrict the bandwidth of a signal to approximately satisfy the sampling theorem. In the case of optical image sampling, as by image sensors in digital cameras, the anti-aliasing filter is also known as an AA filter, blur filter, or optical low-pass filter.",
+    "alias" : [
+      "Anti-aliasing filter",
+      "AA Filter"
+    ]
+  },
+  {
+    "key": "Automatic acoustic management",
+    "description": "Short for automatic acoustic management, AAM is a feature found on new IDE and SATA hard drives that slows the rate at which the hard drive read heads move. Although this technique significantly reduces overall noise production, it also slightly decreases the performance of the drive.",
+    "alias" : [
+      "Automatic acoustic management",
+      "AAM"
+    ]
+  },
+  {
+    "key": "As a matter of fact",
+    "description": "Shorthand for as a matter of fact, AAMOF is a commonly used saying in text-based communications. Below is an example of how this shorthand could be used.",
+    "alias" : [
+      "As a matter of fact",
+      "AAMOF"
+    ]
+  },
+  {
+    "key": "AAS",
+    "description": "Short for Auto Area Segmentation, AAS is an OCR technology that helps make a scanned copy clear and easy to read.",
+    "alias" : [
+      "Auto Area Segmentation",
+      "AAS"
+    ]
+  },
+  {
+    "key": "AAVID",
+    "description": "Aavid Thermalloy is a manufacturer of computer heat sinks for various computer components, including computer processors and video cards. Aavid also manufactures case fans for computer cases. Today, Aavid is a subsidiary of Boyd Corporation.",
+    "alias" : [
+      "AAVID"
+    ]
+  },
+  {
+    "key": "Abacus",
+    "description": "Alternatively referred to as the counting frame, an abacus is a mechanical device used to assist a person in performing mathematical calculations and counting.",
+    "alias" : [
+      "Abacus",
+      "Counting Frame"
+    ]
+  },
+  {
+    "key": "Abandonware",
+    "description": "Alternatively referred to as abandon warez, abandonware is software no longer developed, sold, or supported by the creator.",
+    "alias" : [
+      "Abandonware",
+      "Abandon warez"
+    ]
+  },
+  {
+    "key": "A-B box",
+    "description": "The A-B box is an analog switch box used to connect multiple peripherals to one computer. The pictures are examples of the front and back of an A-B box. The back of the A-B box has an INPUT-OUTPUT port, and A and B ports to connect each of the devices. In our example, two parallel port printers connect to the box on the A and B ports and the computer connects to the INPUT-OUTPUT port. The computer user could then switch between the A and B printer on the same computer without having to disconnect and reconnect the printers to the computer.",
+    "alias" : [
+      "A-B box",
+      "A-B"
+    ]
+  },
+  {
+    "key": "Abbreviation",
+    "description": "An abbreviation is a shortened version of a word that is pronounced as individual letters. For example,'HTML' is an abbreviation for 'Hypertext Markup Language' and is pronounced H-T-M-L and not sounded out as a word.",
+    "alias" : [
+      "Abbrev",
+      "Abbreviation"
+    ]
+  },
+  {
+    "key": "abbr",
+    "description": "When writing in HTML, the <abbr> tag is an inline element used to create an acronym or abbreviation. It is useful when you want to shorten a word or phrase, but still want to give additional information to visitors, search engines, and browsers. The following sections contain information about this tag, including an example of it in use, and related attributes and browser compatibility.",
+    "alias" : [
+      "abbr",
+      "<abbr>",
+      "html abbr tag",
+      "html <abbr> tag"
+    ]
+  },
+  {
+    "key": "ABBYY",
+    "description": "Founded in 1997, ABBYY is a developer of AI (Artificial Intelligence) software programs that help in OCR programs and TextGrabber programs. The company has developed such programs as Lingvo, FileReader, and many more.",
+    "alias" : [
+      "ABBYY"
+    ]
+  },
+  {
+    "key": "ABC",
+    "description": "Short for Atanasoff-Berry Computer, the ABC is considered the first electronic digital computer and was the first machine to use vacuum tubes (over 300 vacuum tubes). Professor John Vincent Atanasoff and graduate student Cliff Berry developed the ABC in 1937 and continued development until 1942 at the Iowa State College (now Iowa State University). On October 19, 1973, Judge Earl R. Larson concluded that the ENIAC, patent by Eckert and Mauchly was invalid and named Atanasoff the inventor of the first electronic digital computer.",
+    "alias" : [
+      "Atansaoff-Berry Computer",
+      "ABC"
+    ]
+  },
+  {
+    "key": "Abend",
+    "description": "Short for abnormal end, abend is a term used to describe when a program or task terminates without warning. If an abend occurs, it's followed by an error message indicating the program's last operation and the file or where in the memory the malfunction occurred.",
+    "alias" : [
+      "Abnormal end",
+      "abend"
+    ]
+  },
+  {
+    "key": "Aberration",
+    "description": "With digital photography, an aberration is an unwanted defect or imperfection in an image. Aberrations are generally caused by a defect or a foreign object on the lens. Examples include a spec of dust, dirt, or another foreign materials. In the image, an aberration is displayed in the red box. This aberration was caused by a tiny crumb on the lens of the camera.",
+    "alias" : [
+      "Abberation"
+    ]
+  },
+  {
+    "key": "Advanced BIOS",
+    "description": "Short for Advanced BIOS, ABIOS is capable of supporting calls in protected mode. ABIOS was first used with the IBM PS/2 running the OS/2 operating system but is now included on all new PCs.",
+    "alias" : [
+      "ABIOS",
+      "Advanced BIOS"
+    ]
+  },
+  {
+    "key": "Abit",
+    "description": "Founded in 1989, ABIT was a manufacturer of computer motherboards, video cards, and other computer accessories.",
+    "alias" : [
+      "Abit"
+    ]
+  },
+  {
+    "key": "AbiWord",
+    "description": "AbiWord is a free and open source word processor program that was first released on December 1, 1998, and today resembles other word processors. Its features include many of the same features as other non-free word processors and is capable of saving and opening documents created in Microsoft Word and Corel WordPerfect.",
+    "alias" : [
+      "AbiWord"
+    ]
+  },
+  {
+    "key": "Fully Qualified Domain Name",
+    "description": "Alternatively referred to as an ABN (absolute domain name), FQDN is short for fully qualified domain name and is the address name of a computer using DNS. For example, \"www.google.com\" is an example of an FQDN.",
+    "alias" : [
+      "FQDN",
+      "Fully Qualified Domain Name",
+      "ABN",
+      "Absolute domain name"
     ]
   }
 ]
